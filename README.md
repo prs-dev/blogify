@@ -1,1 +1,1 @@
-# contains all the backend files of eqaim test project
+# contains all the files of blogify app
